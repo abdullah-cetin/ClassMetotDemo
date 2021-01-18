@@ -6,7 +6,25 @@ namespace ClassMetotDemo
 {
     public class MusteriManager
     {
+        public void Ekle()
+        {
 
 
+        }
+        public void Sil()
+        {
+
+
+        }
+        public void Listele()
+        {
+
+
+        }
+        public void Guncelle()
+        {
+
+
+        }
     }
 }

@@ -4,7 +4,9 @@ using System.Text;
 
 namespace ClassMetotDemo
 {
-    class Musteri
+    public class Musteri
     {
+
+
     }
 }
